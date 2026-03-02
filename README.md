@@ -199,9 +199,4 @@ If this project helped you:
 
 ---
 
-
-MIT License
-
----
-
 **Built to make SQL understanding faster and easier.**
